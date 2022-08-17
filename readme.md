@@ -60,3 +60,4 @@ Hii guys this is the Paytm Home page Clone that i have made because the paytm or
 
 ## Deployed link
 
+[CLICK ME ](https://paytmresponsive.netlify.app/)
