@@ -1,0 +1,17 @@
+
+.btn:hover .profile{
+    display: none;
+}
+.btn:hover .profile1{
+    display: flex;
+}
+
+.learnbtn:hover .arr{
+    display: none;
+    
+}
+.learnbtn:hover .rtarr{
+    
+    display: inline;
+    
+}
